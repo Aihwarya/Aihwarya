@@ -1,62 +1,61 @@
 *
-{
-	margin:0px;
-	padding:0px;
-}
 body{
-	background-image:url(bg.jpg);
-background-repeat:no-repeat;
-background-size:cover;
-}
-.box{
-	border-radius:25px;
-	width:600px;
-	color:blue;
-	background-color:rgba(0,0,0,0.5);
-	padding:50px;
-	margin:auto;
-	margin-top:5%;
-	text-align:center;
+	background-color:light grey;
+	color:grey;
+    background-image:url(bg.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+	
 }
 .box-img{
 	border-radius:50%;
-	width:150px;
+	width=:150px;
 	height:150px;
-}
-.box p{
-	text-align:justify;
-	margin-top:1em;
-	margin-bottom:1em;
+	margin-left:43%;
+	margin-top:2%;
+	
 }
 	
-h1
-{
-	text-align:center;
+.box-1{
+	margin-left:20%;
+	margin-right:20%;
+	background-color:rgba(0,0,0,0.1);
+	border:1px grey solid;
+	border-radius:25px;
 }
-p
-{
+h1{
 	text-align:center;
+	
 }
-p
-{
+p{
 	text-align:center;
+	padding:5%;
+	
 }
-p
-{
-	text-align:center;
+a {
+	text-decoration:none;
+	color:black;
+	padding:11%;
 }
-p
-{
-	text-align:center;
+a:hover{
+	color:blue;
 }
-table{
-	width=50%
+h4{
+	padding-left:5%;
 }
-.lis
-{
-	text-align:center;
-	margin:0px 260px;
+li{
+	margin-left:3%;
+	margin-right:85%;
+	padding-bottom:6px;
+	border-bottom:dotted 1px black;
+	font-size:0.9em;
 }
-p
-{
-	text-align:center;
+
+.table{
+	text-align:left;
+	margin-top:5%;
+	margin-left:2%;
+	border-collapse:collapse;
+	min-width:400px;
+	font-size:0.9em;
+}
